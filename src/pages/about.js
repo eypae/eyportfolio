@@ -3,7 +3,7 @@ import Head from "next/head";
 import Image from "next/image";
 import AnimatedText from "@/components/AnimatedText";
 import Layout from "@/components/Layout";
-import profilePic from "../../public/images/profile/enyang-pic.PNG";
+import profilePic from "../../public/images/profile/enyang-pic.jpg";
 import Skills from "@/components/Skills";
 import Experience from "@/components/Experience";
 import Education from "@/components/Education";
