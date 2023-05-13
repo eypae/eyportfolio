@@ -33,7 +33,7 @@ const about = () => {
                 About me
               </h2>
               <p className="font-medium text-indigo-950">
-                I'm En Yang, a penultimate Business Analytics undergraduate at
+                I am En Yang, a penultimate Business Analytics undergraduate at
                 the National University of Singapore. Apart from analytics and
                 software development, I am also a UI/UX designer with a passion
                 for creating beautiful, functional, and user-centered digital
@@ -41,11 +41,11 @@ const about = () => {
               </p>
               <p className="my-4 font-medium text-indigo-950">
                 My journey in design started over 2 years ago in 2020 when I
-                picked up digital art, and since then I've done pieces ranging
+                picked up digital art, and since then I have done pieces ranging
                 from comics to art design for my very own game!
               </p>
               <p className="font-medium text-indigo-950">
-                In my spare time, you'll find me doodling on my iPad, playing
+                In my spare time, you will find me doodling on my iPad, playing
                 the guitar or working out at the gym.
               </p>
             </div>
