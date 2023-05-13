@@ -4,7 +4,6 @@ import Image from "next/image";
 import AnimatedText from "@/components/AnimatedText";
 import Layout from "@/components/Layout";
 import profilePic from "../../public/images/profile/enyang-pic.PNG";
-import buffPic from "../../public/images/profile/enyang-buff.JPG";
 import Skills from "@/components/Skills";
 import Experience from "@/components/Experience";
 import Education from "@/components/Education";
