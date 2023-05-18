@@ -52,7 +52,7 @@ export default function Home() {
                   md:p-2 md:px-4 md:text-base"
                   download={false}
                 >
-                  Resume <LinkArrow className={"w-6 ml-1"} />
+                  Resume <LinkArrow className={"w-6 ml-1 md:w-3"} />
                 </Link>
                 <Link
                   href="mailto:enyangpaeey@gmail.com"
